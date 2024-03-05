@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetAReader</string>
+    <string name="create_acct">Please enter a Valid email and password that is least 6 chars</string>
+
+</resources>

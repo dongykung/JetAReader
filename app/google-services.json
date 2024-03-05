@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968017976649",
+    "project_id": "readerapp-compose",
+    "storage_bucket": "readerapp-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968017976649:android:dff90782ba3ace2fe70e98",
+        "android_client_info": {
+          "package_name": "com.example.jetareader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_D7YHYqfehdEr7Hw5aZsqcOREiVQoXnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
